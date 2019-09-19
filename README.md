@@ -35,7 +35,14 @@
 
 >Find the code : [click here](https://github.com/dlathina/Content-Based-Filtering-by-Similarity-Matrix)
 
-4. AB-Testing-in-Udacity-Dataset
+
+4. Hybrid-Recommendation-Movies-Dataset
+
+>Blending Collaborative Filtering and Content Based we can get Hybrid Recommendation. From the function of "hybrid_rec" you can input user_name, and you can get the result Is the recomendation from Collaborative Filtering really recommended to watch? We can get the answer after we compared the value of similarity from favourite movie's user. 
+
+>Find the code : [click here](https://github.com/dlathina/Hybrid-Recommendation-Movies-Dataset)
+
+5. AB-Testing-in-Udacity-Dataset
 
 
 >To complete my Data Analysis project I am using ..... in Movie Dataset. 
